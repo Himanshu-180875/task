@@ -8,6 +8,9 @@ In the project directory, you can run:
 ### ` First Run Server by npm  run server`
 Just go to the backend directory by cd backend and run the command 'npm run server'
 
+
+Before running npm run start , First install the node modules by running the command `npm install react-scripts`
+
 ### `npm  run start`
 
 Runs the app in the development mode.\
