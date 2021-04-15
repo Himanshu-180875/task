@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Himanshu:may2000@cluster0.hsmss.mongodb.net/Task?retryWrites=true&w=majority",
+    "jwtSecret":"my_task_app"
+}
